@@ -1,0 +1,4 @@
+-- lol why are you here? if you want the script execute this:
+print("Key: iwantscript")
+game.WhitelistSystem.Sucess = true
+print("sucess, acess granted in a week")
